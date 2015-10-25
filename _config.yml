@@ -1,0 +1,23 @@
+name: megankingery
+favicon: null
+layout_spectrum: 0.460716494359076
+typography_spectrum: 0.2843643929809332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.20335466461256146
+  lightness: 0.9191893574316055
+  saturation: 0.23733848566189408
+  rhythmicContrast: 0.6642986773513258
+purpose: []
